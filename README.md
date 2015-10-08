@@ -17,3 +17,23 @@ The output will be displayed on the terminal.
 Sorted list in ascending order:
 1 2 3 4
 ```
+
+## Test Setup
+Compile the unit test by entering
+```
+make test
+```
+into the command line.
+
+The unit test will compile and run, displaying
+```
+./test_functions
+
+code
+code
+code
+code
+
+code
+```
+on the terminal.
