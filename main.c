@@ -5,7 +5,7 @@ CS 232
 merge sort */
 
 #include <stdio.h>
-#include "functions.c"
+#include "functions.h"
 
 #define MAX 25
 

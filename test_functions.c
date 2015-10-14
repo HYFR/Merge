@@ -46,4 +46,5 @@ int main() {
 
   printf("The merge sort algorithm works.\n\n");
 
+  return 0;
 }
