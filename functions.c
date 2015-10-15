@@ -50,6 +50,7 @@ void mergeSort(int array[], int low, int mid, int high) {
     }
 }
 
+// After the subarrays are in a sorted order, this function merges them into the original array, but in a sorted order.
 void merge(int array[], int low, int high) {
   int mid;
 
@@ -61,7 +62,7 @@ void merge(int array[], int low, int high) {
   }
 }
 
-
+// compares the elements of arrays for testing in my test_functions file
 int match(int a[], int b[]) {
   int i;
   int length = (sizeof(a) / sizeof(a[0]));
