@@ -4,7 +4,7 @@ Contains the merge sort algorithm. The merge sort algorithm executs a divide and
 ## Setup
 First you will want to compile the main function.
 ```
-make main
+make
 ```
 
 Then you will want to run the file
@@ -29,11 +29,10 @@ The unit test will compile and run, displaying
 ```
 ./test_functions
 
-code
-code
-code
-code
+Even length array works (merge).
+Odd lengthed arrays work (merge).
+Odd length arrays with negative integer elements work.
+The merge sort algorithm works.
 
-code
 ```
 on the terminal.
