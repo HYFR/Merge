@@ -25,9 +25,15 @@ make test
 ```
 into the command line.
 
-The unit test will compile and run, displaying
+Then run the test file by typing 
 ```
 ./test_functions
+```
+into the command line.
+
+
+The unit tests will compile and run, displaying
+```
 
 Even length array works (merge).
 Odd lengthed arrays work (merge).
