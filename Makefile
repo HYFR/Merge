@@ -7,6 +7,8 @@ functions: functions.o main.o
 
 test: functions.o test_functions.o
 	$(CC) $(CFLAGS) functions.o test_functions.o -lm -o test_functions
+
+ex: test
 	./test_functions
 
 run: functions
