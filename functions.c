@@ -2,7 +2,7 @@
 
 #define MAX 25 
 
-// mergeSort works exclusively for the merge sort as indicated by its name.
+// The indices are used as points of comparison to the given parameters. Depending on which is bigger (the parameters or indice pointed at) the elements in the subarrays are sorted from least to greatest.
 void mergeSort(int array[], int low, int mid, int high) {
   int i;
   int a;
